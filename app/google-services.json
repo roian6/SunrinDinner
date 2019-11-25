@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "161524823207",
+    "firebase_url": "https://foodrandom-b6b1f.firebaseio.com",
+    "project_id": "foodrandom-b6b1f",
+    "storage_bucket": "foodrandom-b6b1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161524823207:android:21bce00d7aaaeb0a80d782",
+        "android_client_info": {
+          "package_name": "com.example.foodrandom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161524823207-tlf4am4p1fqkenqb4l38h4e2h6l49935.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQcCnYAbAXmdBtdMUUXig0DvrV8m18dlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161524823207-tlf4am4p1fqkenqb4l38h4e2h6l49935.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

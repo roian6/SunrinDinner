@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="restaurant">
+        <item>https://m.place.naver.com/restaurant/36912553/home</item> <!--두끼-->
+    </string-array>
+
+</resources>
