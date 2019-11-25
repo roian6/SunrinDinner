@@ -6,3 +6,9 @@
 (다운로드: https://drive.google.com/open?id=1HvnWD39QQ0cB4YWvoS8FKcq0lwVfcWVn)
 
 이젠 터치 한번으로 저녁 메뉴를 고르고, 내가 좋아하는 메뉴를 앱에 추가해보세요!
+
+### 스크린샷
+
+![image1](./img/image1.jpg) 
+![image2](./img/image2.jpg) 
+![image3](./img/image3.jpg) 
